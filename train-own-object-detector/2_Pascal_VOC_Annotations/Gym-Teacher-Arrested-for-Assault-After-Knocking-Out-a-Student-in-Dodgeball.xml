@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>Gym-Teacher-Arrested-for-Assault-After-Knocking-Out-a-Student-in-Dodgeball.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\Gym-Teacher-Arrested-for-Assault-After-Knocking-Out-a-Student-in-Dodgeball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>45</ymin>
+			<xmax>651</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

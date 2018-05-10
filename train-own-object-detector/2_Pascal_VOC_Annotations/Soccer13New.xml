@@ -1,0 +1,38 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>Soccer13New.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\Soccer13New.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1372</width>
+		<height>1062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>368</ymin>
+			<xmax>894</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1091</xmin>
+			<ymin>388</ymin>
+			<xmax>1356</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+</annotation>

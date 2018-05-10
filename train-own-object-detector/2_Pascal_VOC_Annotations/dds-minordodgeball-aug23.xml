@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>dds-minordodgeball-aug23.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\dds-minordodgeball-aug23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>207</ymin>
+			<xmax>332</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

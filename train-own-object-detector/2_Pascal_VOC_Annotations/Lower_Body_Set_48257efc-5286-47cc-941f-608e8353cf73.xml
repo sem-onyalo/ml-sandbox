@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>Lower_Body_Set_48257efc-5286-47cc-941f-608e8353cf73.JPG</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\Lower_Body_Set_48257efc-5286-47cc-941f-608e8353cf73.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>528</ymin>
+			<xmax>927</xmax>
+			<ymax>1160</ymax>
+		</bndbox>
+	</object>
+</annotation>

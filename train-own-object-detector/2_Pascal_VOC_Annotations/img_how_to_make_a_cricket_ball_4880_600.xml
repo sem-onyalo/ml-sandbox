@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>img_how_to_make_a_cricket_ball_4880_600.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\img_how_to_make_a_cricket_ball_4880_600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>59</ymin>
+			<xmax>335</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

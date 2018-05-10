@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>red-dodge-ball-line-sportshall-dodgeball-game-hit-play-gymnasium-gym-court-throw-hit-catch-start-big-space-hall-physical-85130942.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\red-dodge-ball-line-sportshall-dodgeball-game-hit-play-gymnasium-gym-court-throw-hit-catch-start-big-space-hall-physical-85130942.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>60</ymin>
+			<xmax>411</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

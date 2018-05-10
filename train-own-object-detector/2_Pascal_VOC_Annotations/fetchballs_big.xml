@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>fetchballs_big.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\fetchballs_big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>325</ymin>
+			<xmax>335</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

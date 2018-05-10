@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>CS-LB2-BO_1024x1024.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\CS-LB2-BO_1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>294</ymin>
+			<xmax>964</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

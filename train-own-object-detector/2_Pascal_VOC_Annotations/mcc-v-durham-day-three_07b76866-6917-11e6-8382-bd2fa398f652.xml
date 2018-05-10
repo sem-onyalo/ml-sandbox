@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>mcc-v-durham-day-three_07b76866-6917-11e6-8382-bd2fa398f652.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\mcc-v-durham-day-three_07b76866-6917-11e6-8382-bd2fa398f652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>123</ymin>
+			<xmax>338</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

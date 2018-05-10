@@ -1,0 +1,38 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>480.png</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\480.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>90</ymin>
+			<xmax>368</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>107</ymin>
+			<xmax>144</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

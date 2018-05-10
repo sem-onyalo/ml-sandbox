@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>dodgeball.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\dodgeball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>54</ymin>
+			<xmax>330</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

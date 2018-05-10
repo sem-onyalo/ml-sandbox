@@ -1,0 +1,50 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>Giant-Christmas-Ornaments-2-2.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\Giant-Christmas-Ornaments-2-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>126</ymin>
+			<xmax>593</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>153</ymin>
+			<xmax>402</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>115</ymin>
+			<xmax>225</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

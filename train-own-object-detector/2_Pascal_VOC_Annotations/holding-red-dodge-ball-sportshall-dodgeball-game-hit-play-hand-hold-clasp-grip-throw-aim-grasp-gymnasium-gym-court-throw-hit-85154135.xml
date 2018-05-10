@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>holding-red-dodge-ball-sportshall-dodgeball-game-hit-play-hand-hold-clasp-grip-throw-aim-grasp-gymnasium-gym-court-throw-hit-85154135.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\holding-red-dodge-ball-sportshall-dodgeball-game-hit-play-hand-hold-clasp-grip-throw-aim-grasp-gymnasium-gym-court-throw-hit-85154135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>24</ymin>
+			<xmax>450</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>
