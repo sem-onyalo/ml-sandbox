@@ -1,3 +1,6 @@
 **/__*
 
 .ipynb_checkpoints
+
+**/models/model/eval
+**/models/model/train
