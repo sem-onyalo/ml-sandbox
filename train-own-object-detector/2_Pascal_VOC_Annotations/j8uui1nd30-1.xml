@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>j8uui1nd30-1.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\j8uui1nd30-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>192</ymin>
+			<xmax>413</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

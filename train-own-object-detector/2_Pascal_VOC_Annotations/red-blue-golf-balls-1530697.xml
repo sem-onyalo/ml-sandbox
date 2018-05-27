@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>red-blue-golf-balls-1530697.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\red-blue-golf-balls-1530697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>179</ymin>
+			<xmax>656</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>109</ymin>
+			<xmax>398</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

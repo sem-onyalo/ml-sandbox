@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>ki1sw8mn.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\ki1sw8mn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>84</ymin>
+			<xmax>210</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

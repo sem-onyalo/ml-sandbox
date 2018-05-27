@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1_Image_Set</folder>
+	<filename>003sw9dft.jpg</filename>
+	<path>C:\code\ml-sandbox\train-own-object-detector\1_Image_Set\003sw9dft.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>65</ymin>
+			<xmax>415</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

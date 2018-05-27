@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>60nw-296937743.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\60nw-296937743.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>147</ymin>
+			<xmax>93</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>113</ymin>
+			<xmax>167</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>home_fitness_equipment_blue.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\home_fitness_equipment_blue.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>611</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>1</ymin>
+			<xmax>490</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>174</ymin>
+			<xmax>249</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

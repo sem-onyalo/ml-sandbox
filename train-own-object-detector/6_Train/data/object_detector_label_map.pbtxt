@@ -7,8 +7,3 @@ item {
   id: 2
   name: 'blue ball'
 }
-
-item {
-  id: 3
-  name: 'green ball'
-}

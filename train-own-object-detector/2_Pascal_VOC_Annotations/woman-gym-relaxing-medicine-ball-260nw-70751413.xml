@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>woman-gym-relaxing-medicine-ball-260nw-70751413.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\woman-gym-relaxing-medicine-ball-260nw-70751413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>369</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>39</ymin>
+			<xmax>226</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

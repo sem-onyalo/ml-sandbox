@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>r960-cc39f67f436b5f2c1d4f01c826c7a324.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\r960-cc39f67f436b5f2c1d4f01c826c7a324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>542</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>136</ymin>
+			<xmax>229</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

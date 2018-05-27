@@ -1,7 +1,7 @@
 <annotation>
-	<folder>red_ball</folder>
+	<folder>balls</folder>
 	<filename>480.png</filename>
-	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\480.png</path>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\480.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,42 @@
 			<ymin>107</ymin>
 			<xmax>144</xmax>
 			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>146</ymin>
+			<xmax>444</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>95</ymin>
+			<xmax>493</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>44</ymin>
+			<xmax>222</xmax>
+			<ymax>162</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>BRN-BALL-2_9cfe42f3-35de-4001-939e-06478cf92740_1024x1024@2x.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\BRN-BALL-2_9cfe42f3-35de-4001-939e-06478cf92740_1024x1024@2x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>88</ymin>
+			<xmax>418</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

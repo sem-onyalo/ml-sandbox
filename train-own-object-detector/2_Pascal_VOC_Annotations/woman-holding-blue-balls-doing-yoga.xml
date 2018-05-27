@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>woman-holding-blue-balls-doing-yoga.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\woman-holding-blue-balls-doing-yoga.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>227</ymin>
+			<xmax>349</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>241</ymin>
+			<xmax>589</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

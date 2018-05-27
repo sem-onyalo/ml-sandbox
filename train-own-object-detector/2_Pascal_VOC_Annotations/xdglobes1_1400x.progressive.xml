@@ -1,0 +1,50 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>xdglobes1_1400x.progressive.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\xdglobes1_1400x.progressive.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>151</ymin>
+			<xmax>809</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>236</ymin>
+			<xmax>204</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>92</ymin>
+			<xmax>531</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>dryer-balls.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\dryer-balls.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>622</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>157</ymin>
+			<xmax>599</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>134</ymin>
+			<xmax>437</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

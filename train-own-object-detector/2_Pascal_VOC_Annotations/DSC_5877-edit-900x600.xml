@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>DSC_5877-edit-900x600.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\DSC_5877-edit-900x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>1</ymin>
+			<xmax>297</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

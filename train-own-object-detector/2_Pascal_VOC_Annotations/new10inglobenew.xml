@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>new10inglobenew.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\new10inglobenew.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>595</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>246</ymin>
+			<xmax>330</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

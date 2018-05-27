@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>golfballen-en-t-stukken-16138796.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\golfballen-en-t-stukken-16138796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>241</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>61</ymin>
+			<xmax>78</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>63</ymin>
+			<xmax>150</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>dodgeball-girl.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\dodgeball-girl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>207</ymin>
+			<xmax>155</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

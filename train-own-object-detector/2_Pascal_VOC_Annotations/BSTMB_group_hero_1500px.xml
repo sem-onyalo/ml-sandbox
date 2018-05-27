@@ -1,0 +1,50 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>BSTMB_group_hero_1500px.png</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\BSTMB_group_hero_1500px.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>367</ymin>
+			<xmax>177</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>256</ymin>
+			<xmax>580</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>65</ymin>
+			<xmax>580</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

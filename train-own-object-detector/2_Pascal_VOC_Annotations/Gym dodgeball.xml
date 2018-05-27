@@ -1,7 +1,7 @@
 <annotation>
-	<folder>red_ball</folder>
+	<folder>balls</folder>
 	<filename>Gym dodgeball.jpg</filename>
-	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\Gym dodgeball.jpg</path>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\Gym dodgeball.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>437</ymin>
 			<xmax>687</xmax>
 			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>439</ymin>
+			<xmax>548</xmax>
+			<ymax>489</ymax>
 		</bndbox>
 	</object>
 </annotation>

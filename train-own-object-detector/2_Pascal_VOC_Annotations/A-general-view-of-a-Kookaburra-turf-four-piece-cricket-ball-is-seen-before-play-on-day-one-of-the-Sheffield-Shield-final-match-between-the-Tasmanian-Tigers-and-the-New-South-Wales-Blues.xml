@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_ball</folder>
+	<filename>A-general-view-of-a-Kookaburra-turf-four-piece-cricket-ball-is-seen-before-play-on-day-one-of-the-Sheffield-Shield-final-match-between-the-Tasmanian-Tigers-and-the-New-South-Wales-Blues.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\red_ball\A-general-view-of-a-Kookaburra-turf-four-piece-cricket-ball-is-seen-before-play-on-day-one-of-the-Sheffield-Shield-final-match-between-the-Tasmanian-Tigers-and-the-New-South-Wales-Blues.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>68</ymin>
+			<xmax>413</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

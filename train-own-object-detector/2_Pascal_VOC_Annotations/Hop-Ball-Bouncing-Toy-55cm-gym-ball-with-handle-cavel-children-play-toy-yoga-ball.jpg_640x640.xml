@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>Hop-Ball-Bouncing-Toy-55cm-gym-ball-with-handle-cavel-children-play-toy-yoga-ball.jpg_640x640.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\Hop-Ball-Bouncing-Toy-55cm-gym-ball-with-handle-cavel-children-play-toy-yoga-ball.jpg_640x640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>120</ymin>
+			<xmax>522</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>180</ymin>
+			<xmax>291</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>top-glides-precut-walker-tennis-ball-glides-dark-blue-6-pairs_23457774.jpeg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\top-glides-precut-walker-tennis-ball-glides-dark-blue-6-pairs_23457774.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>98</ymin>
+			<xmax>170</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>109</ymin>
+			<xmax>330</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

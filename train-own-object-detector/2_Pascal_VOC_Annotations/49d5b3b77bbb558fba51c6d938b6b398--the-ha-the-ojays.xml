@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>49d5b3b77bbb558fba51c6d938b6b398--the-ha-the-ojays.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\49d5b3b77bbb558fba51c6d938b6b398--the-ha-the-ojays.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>22</ymin>
+			<xmax>270</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

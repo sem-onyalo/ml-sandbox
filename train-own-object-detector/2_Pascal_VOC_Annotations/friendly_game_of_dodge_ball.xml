@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>friendly_game_of_dodge_ball.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\friendly_game_of_dodge_ball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>238</ymin>
+			<xmax>417</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>221</ymin>
+			<xmax>496</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

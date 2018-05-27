@@ -1,0 +1,38 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>fitness-experts-blue-medicine-balls-two-persons-making-excercise-ball-76139890.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\fitness-experts-blue-medicine-balls-two-persons-making-excercise-ball-76139890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>228</ymin>
+			<xmax>667</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>237</ymin>
+			<xmax>339</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

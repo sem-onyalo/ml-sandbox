@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>ed3f53d09121e58f85f216e61cd94266--miniature-golf-arcade-games.jpg</filename>
+	<path>C:\Users\sem.onyalo\Downloads\_ml_images\balls\ed3f53d09121e58f85f216e61cd94266--miniature-golf-arcade-games.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>67</ymin>
+			<xmax>328</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
